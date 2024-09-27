@@ -9,7 +9,7 @@ Hello! My name is Toluwalase Taiwo, and I am a participant in the ML zoomcamp. T
 Here are the assignments I have submitted:
 
 1. **Assignment 1: Introduction to Machine Learning**
-   - [Assignment 1 Submission]()
+   - [Assignment 1 Submission](https://github.com/Toluwalase-Taiwo/ml-zoomcamp/blob/main/%20homework-notebooks/assignment-01-intro.ipynb)
    - Description: This assignment focused on the basic concepts of machine learning, including the application of numpy, pandas, linear algebra in data manipulation using a Laptop Price dataset
 
 
