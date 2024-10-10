@@ -12,7 +12,7 @@ Here are the assignments I have submitted:
    - [Assignment 1 Submission](https://github.com/Toluwalase-Taiwo/ml-zoomcamp/blob/main/%20homework-notebooks/assignment-01-intro.ipynb)
    - Description: This assignment focused on the basic concepts of machine learning, including the application of numpy, pandas, linear algebra in data manipulation using a Laptop Price dataset.
 2. *Assignment 2: Regression Algorithms*
-   - [Assignment 2 Submission](https://github.com/Toluwalase-Taiwo/Spotify-Most-Streamed-Songs-2024-/blob/main/Notebook/Spotify%20Dataset.ipynb)
+   - [Assignment 2 Submission](https://github.com/Toluwalase-Taiwo/ml-zoomcamp/blob/main/%20homework-notebooks/assignment-02-regression.ipynb)
    - Description: In this assignment, I implemented linear regression algorithms using a Laptop Price dataset. 
 
 
